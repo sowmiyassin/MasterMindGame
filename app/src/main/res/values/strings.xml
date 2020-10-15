@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MasterMind</string>
+    <string name="try_button">Try Again</string>
+    <string name="play_again">Play Again</string>
+    <string name="noof_attempt">No Of Attempts</string>
+    <string name="title_text">guess the word!</string>
+    <string name="play_button">Play</string>
+    <string name="get_ready">Get ready to</string>
+    <string name="got_it">Check it</string>
+    <string name="end_game">End game</string>
+    <string name="word_is">The Quiz word is…</string>
+    <string name="guess_word_is">The Guess word is…</string>
+</resources>
